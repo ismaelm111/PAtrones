@@ -1,0 +1,6 @@
+org\apache\camel\learn\MyRouteBuilder.class
+org\apache\camel\learn\Datos\Pago.class
+org\apache\camel\learn\Datos\Cliente.class
+org\apache\camel\learn\ProcesarArchivo.class
+org\apache\camel\learn\MainApp.class
+org\apache\camel\learn\Datos\Facturado.class
